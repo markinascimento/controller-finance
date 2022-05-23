@@ -7,7 +7,7 @@
 
 ## Technologies used
 
-- ReactJS (ViteJS)
+- ReactJS with TypeScript (ViteJS)
 - Styled Components
 - Axios
 - MirageJS
